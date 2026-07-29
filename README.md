@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2119-a-number-after-a-double-reversal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 ## Sorting
 |  |
