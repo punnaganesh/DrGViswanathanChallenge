@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0520-detect-capital) |
+| [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -58,4 +59,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2390-removing-stars-from-a-string) |
+## String Matching
+|  |
+| ------- |
+| [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
 <!---LeetCode Topics End-->
