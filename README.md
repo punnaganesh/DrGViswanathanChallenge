@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
+| [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -63,4 +64,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
+## Binary Search
+|  |
+| ------- |
+| [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 <!---LeetCode Topics End-->
