@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0258-add-digits) |
+| [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
 | [0507-perfect-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
