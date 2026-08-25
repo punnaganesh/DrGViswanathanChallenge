@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Bit Manipulation
 |  |
@@ -58,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Simulation
 |  |
