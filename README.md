@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0258-add-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0258-add-digits) |
 | [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0507-perfect-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Hash Table
 |  |
