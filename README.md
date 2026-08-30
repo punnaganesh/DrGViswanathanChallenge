@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
 ## String
 |  |
@@ -46,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0041-first-missing-positive) |
+| [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
