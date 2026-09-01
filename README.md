@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0520-detect-capital) |
 | [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
+| [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
 | [2390-removing-stars-from-a-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2390-removing-stars-from-a-string) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -75,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Simulation
