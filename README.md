@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
+| [0128-longest-consecutive-sequence](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0041-first-missing-positive](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0041-first-missing-positive) |
+| [0128-longest-consecutive-sequence](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -132,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
