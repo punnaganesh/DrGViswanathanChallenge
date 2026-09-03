@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -47,11 +48,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0011-container-with-most-water) |
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
