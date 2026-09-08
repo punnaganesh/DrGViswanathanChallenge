@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
 | [0041-first-missing-positive](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0041-first-missing-positive) |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0128-longest-consecutive-sequence) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Divide and Conquer
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
+| [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Union-Find
 |  |
