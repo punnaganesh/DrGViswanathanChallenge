@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 | [3875-construct-uniform-parity-array-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3875-construct-uniform-parity-array-i) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
 | [2351-first-letter-to-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2351-first-letter-to-appear-twice) |
+| [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Simulation
@@ -164,4 +166,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3903-smallest-stable-index-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3904-smallest-stable-index-ii) |
+## Recursion
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
