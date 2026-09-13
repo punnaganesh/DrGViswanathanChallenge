@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [1470-shuffle-the-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1470-shuffle-the-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
+| [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 ## Union-Find
 |  |
