@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
+| [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0896-monotonic-array) |
 | [1470-shuffle-the-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1470-shuffle-the-array) |
 | [1732-find-the-highest-altitude](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
 ## Divide and Conquer
 |  |
 | ------- |
