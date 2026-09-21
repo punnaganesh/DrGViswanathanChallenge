@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0011-container-with-most-water) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 ## Array
 |  |
@@ -86,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1732-find-the-highest-altitude](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1732-find-the-highest-altitude) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
+| [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3718-smallest-missing-multiple-of-k) |
