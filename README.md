@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0896-monotonic-array) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1732-find-the-highest-altitude](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1732-find-the-highest-altitude) |
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0374-guess-number-higher-or-lower](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0374-guess-number-higher-or-lower) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
+| [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 ## Divide and Conquer
 |  |
