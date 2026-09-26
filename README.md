@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0896-monotonic-array) |
+| [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1470-shuffle-the-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -210,4 +212,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0374-guess-number-higher-or-lower](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0374-guess-number-higher-or-lower) |
+## Counting Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
+## Bubble Sort
+|  |
+| ------- |
+| [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
 <!---LeetCode Topics End-->
