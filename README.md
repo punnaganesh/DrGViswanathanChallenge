@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0128-longest-consecutive-sequence) |
+| [0137-single-number-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0231-power-of-two) |
 | [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
