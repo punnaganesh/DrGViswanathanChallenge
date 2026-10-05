@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0029-divide-two-integers) |
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [0231-power-of-two](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0258-add-digits) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0029-divide-two-integers) |
 | [0137-single-number-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0137-single-number-ii) |
 | [0190-reverse-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0190-reverse-bits) |
 | [0231-power-of-two](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0231-power-of-two) |
