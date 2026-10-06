@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0836-rectangle-overlap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2119-a-number-after-a-double-reversal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1539-kth-missing-positive-number) |
 | [1732-find-the-highest-altitude](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1732-find-the-highest-altitude) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0693-binary-number-with-alternating-bits) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [2351-first-letter-to-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
@@ -246,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
@@ -276,4 +280,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0078-subsets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0090-subsets-ii) |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+## Combinatorics
+|  |
+| ------- |
+| [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 <!---LeetCode Topics End-->
