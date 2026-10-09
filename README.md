@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0345-reverse-vowels-of-a-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
+| [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 ## String
@@ -108,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
 | [0896-monotonic-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0896-monotonic-array) |
+| [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
