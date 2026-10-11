@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1310-xor-queries-of-a-subarray](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -295,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 ## Bubble Sort
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 ## Bracket Sequences
 |  |
 | ------- |
@@ -322,4 +327,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
+| [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
