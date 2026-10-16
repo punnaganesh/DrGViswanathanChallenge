@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
 | [0922-sort-array-by-parity-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0383-ransom-note) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0520-detect-capital](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0520-detect-capital) |
+| [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
 | [0796-rotate-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0796-rotate-string) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -193,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
+| [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
 | [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
