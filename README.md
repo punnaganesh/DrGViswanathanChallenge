@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2418-sort-the-people) |
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
+| [2733-neither-minimum-nor-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
