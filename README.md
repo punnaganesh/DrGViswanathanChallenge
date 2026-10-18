@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
+| [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0260-single-number-iii) |
+| [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
@@ -351,9 +353,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Indexed Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 ## Segment Tree
 |  |
 | ------- |
+| [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
