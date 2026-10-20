@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0169-majority-element) |
 | [0179-largest-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0179-largest-number) |
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0260-single-number-iii) |
 | [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
@@ -281,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
 | [0643-maximum-average-subarray-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0713-subarray-product-less-than-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -371,4 +373,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
+## Range Minimum/Maximum Query
+|  |
+| ------- |
+| [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
 <!---LeetCode Topics End-->
