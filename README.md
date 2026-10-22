@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0240-search-a-2d-matrix-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0260-single-number-iii) |
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
 | [0410-split-array-largest-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0410-split-array-largest-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -308,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0048-rotate-image) |
 | [0074-search-a-2d-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0240-search-a-2d-matrix-ii) |
+| [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [1314-matrix-block-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1314-matrix-block-sum) |
 | [1901-find-a-peak-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1901-find-a-peak-element-ii) |
@@ -321,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0410-split-array-largest-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
@@ -412,4 +415,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
+| [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 <!---LeetCode Topics End-->
