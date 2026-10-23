@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0371-sum-of-two-integers) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0507-perfect-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0633-sum-of-square-numbers) |
 | [0836-rectangle-overlap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0643-maximum-average-subarray-i) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0713-subarray-product-less-than-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0713-subarray-product-less-than-k) |
@@ -211,6 +213,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0229-majority-element-ii) |
 | [0383-ransom-note](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
@@ -325,6 +328,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0410-split-array-largest-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0410-split-array-largest-sum) |
+| [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0713-subarray-product-less-than-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1310-xor-queries-of-a-subarray) |
@@ -416,4 +420,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
