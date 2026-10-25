@@ -157,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1310-xor-queries-of-a-subarray](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1314-matrix-block-sum) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1470-shuffle-the-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1539-kth-missing-positive-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1539-kth-missing-positive-number) |
@@ -311,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0904-fruit-into-baskets) |
 | [0992-subarrays-with-k-different-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
@@ -340,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1310-xor-queries-of-a-subarray](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1314-matrix-block-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1314-matrix-block-sum) |
+| [1423-maximum-points-you-can-obtain-from-cards](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1732-find-the-highest-altitude](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1732-find-the-highest-altitude) |
 | [3903-smallest-stable-index-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3903-smallest-stable-index-i) |
 | [3904-smallest-stable-index-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3904-smallest-stable-index-ii) |
