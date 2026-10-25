@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1122-relative-sort-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1122-relative-sort-array) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2418-sort-the-people](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2418-sort-the-people) |
@@ -168,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -314,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0992-subarrays-with-k-different-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0992-subarrays-with-k-different-integers) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
+| [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Matrix
 |  |
