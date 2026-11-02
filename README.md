@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2418-sort-the-people](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2418-sort-the-people) |
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2733-neither-minimum-nor-maximum) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3731-find-missing-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3731-find-missing-elements) |
 ## Two Pointers
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1768-merge-strings-alternately](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1768-merge-strings-alternately) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## String
 |  |
 | ------- |
@@ -186,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2706-buy-two-chocolates](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -293,6 +296,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1901-find-a-peak-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 ## Divide and Conquer
 |  |
 | ------- |
