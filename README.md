@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
+| [0888-fair-candy-swap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0888-fair-candy-swap) |
 | [0922-sort-array-by-parity-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1051-height-checker) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0766-toeplitz-matrix](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0766-toeplitz-matrix) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0888-fair-candy-swap) |
 | [0896-monotonic-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0896-monotonic-array) |
 | [0904-fruit-into-baskets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0904-fruit-into-baskets) |
 | [0922-sort-array-by-parity-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0922-sort-array-by-parity-ii) |
@@ -238,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0791-custom-sort-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0791-custom-sort-string) |
 | [0859-buddy-strings](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0859-buddy-strings) |
+| [0888-fair-candy-swap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0888-fair-candy-swap) |
 | [0904-fruit-into-baskets](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0904-fruit-into-baskets) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0992-subarrays-with-k-different-integers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0992-subarrays-with-k-different-integers) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0713-subarray-product-less-than-k](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0713-subarray-product-less-than-k) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0875-koko-eating-bananas](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0875-koko-eating-bananas) |
+| [0888-fair-candy-swap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0888-fair-candy-swap) |
 | [1004-max-consecutive-ones-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
