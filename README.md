@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0523-continuous-subarray-sum) |
 | [0633-sum-of-square-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0633-sum-of-square-numbers) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [0836-rectangle-overlap](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0836-rectangle-overlap) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -218,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0461-hamming-distance](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0461-hamming-distance) |
 | [0645-set-mismatch](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0645-set-mismatch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0693-binary-number-with-alternating-bits) |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1310-xor-queries-of-a-subarray](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1310-xor-queries-of-a-subarray) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1356-sort-integers-by-the-number-of-1-bits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1356-sort-integers-by-the-number-of-1-bits) |
@@ -467,4 +469,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1757-recyclable-and-low-fat-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1757-recyclable-and-low-fat-products) |
+## Primality Test
+|  |
+| ------- |
+| [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 <!---LeetCode Topics End-->
