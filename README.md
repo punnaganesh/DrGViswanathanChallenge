@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2119-a-number-after-a-double-reversal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2409-count-days-spent-together](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2409-count-days-spent-together) |
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -255,6 +256,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1636-sort-array-by-increasing-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2351-first-letter-to-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2351-first-letter-to-appear-twice) |
 | [2418-sort-the-people](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2418-sort-the-people) |
+| [2729-check-if-the-number-is-fascinating](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2729-check-if-the-number-is-fascinating) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
