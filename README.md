@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2119-a-number-after-a-double-reversal) |
 | [2409-count-days-spent-together](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2409-count-days-spent-together) |
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1870-minimum-speed-to-arrive-on-time](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1870-minimum-speed-to-arrive-on-time) |
 | [1901-find-a-peak-element-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1901-find-a-peak-element-ii) |
 | [1961-check-if-string-is-a-prefix-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1961-check-if-string-is-a-prefix-of-array) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0258-add-digits) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -489,4 +492,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+## Euclidean Algorithm
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
+## Greatest Common Divisor
+|  |
+| ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1979-find-greatest-common-divisor-of-array) |
 <!---LeetCode Topics End-->
