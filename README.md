@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2527-find-xor-beauty-of-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2527-find-xor-beauty-of-array) |
 | [2729-check-if-the-number-is-fascinating](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2729-check-if-the-number-is-fascinating) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3536-maximum-product-of-two-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3536-maximum-product-of-two-digits) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3591-check-if-any-element-has-prime-frequency) |
@@ -276,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0258-add-digits) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3591-check-if-any-element-has-prime-frequency](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3591-check-if-any-element-has-prime-frequency) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Stack
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1423-maximum-points-you-can-obtain-from-cards](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1423-maximum-points-you-can-obtain-from-cards) |
 | [1984-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1984-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 ## Matrix
 |  |
 | ------- |
@@ -395,6 +399,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1863-sum-of-all-subset-xor-totals](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/1863-sum-of-all-subset-xor-totals) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3411-maximum-subarray-with-equal-products](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3483-unique-3-digit-even-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/3483-unique-3-digit-even-numbers) |
 ## Geometry
 |  |
