@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0031-next-permutation](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0283-move-zeroes](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0345-reverse-vowels-of-a-string) |
 | [0455-assign-cookies](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0455-assign-cookies) |
 | [0633-sum-of-square-numbers](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0633-sum-of-square-numbers) |
@@ -145,6 +146,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0239-sliding-window-maximum](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0239-sliding-window-maximum) |
 | [0240-search-a-2d-matrix-ii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0283-move-zeroes) |
 | [0303-range-sum-query-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0304-range-sum-query-2d-immutable) |
 | [0406-queue-reconstruction-by-height](https://github.com/punnaganesh/DrGViswanathanChallenge/tree/master/0406-queue-reconstruction-by-height) |
